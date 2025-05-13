@@ -1,0 +1,15 @@
+C:\Users\musta\source\repos\VacApp\VacApp\bin\Debug\net8.0\VacApp.exe
+C:\Users\musta\source\repos\VacApp\VacApp\bin\Debug\net8.0\VacApp.deps.json
+C:\Users\musta\source\repos\VacApp\VacApp\bin\Debug\net8.0\VacApp.runtimeconfig.json
+C:\Users\musta\source\repos\VacApp\VacApp\bin\Debug\net8.0\VacApp.dll
+C:\Users\musta\source\repos\VacApp\VacApp\bin\Debug\net8.0\VacApp.pdb
+C:\Users\musta\source\repos\VacApp\VacApp\obj\Debug\net8.0\VacApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\source\repos\VacApp\VacApp\obj\Debug\net8.0\VacApp.AssemblyInfoInputs.cache
+C:\Users\musta\source\repos\VacApp\VacApp\obj\Debug\net8.0\VacApp.AssemblyInfo.cs
+C:\Users\musta\source\repos\VacApp\VacApp\obj\Debug\net8.0\VacApp.csproj.CoreCompileInputs.cache
+C:\Users\musta\source\repos\VacApp\VacApp\obj\Debug\net8.0\VacApp.sourcelink.json
+C:\Users\musta\source\repos\VacApp\VacApp\obj\Debug\net8.0\VacApp.dll
+C:\Users\musta\source\repos\VacApp\VacApp\obj\Debug\net8.0\refint\VacApp.dll
+C:\Users\musta\source\repos\VacApp\VacApp\obj\Debug\net8.0\VacApp.pdb
+C:\Users\musta\source\repos\VacApp\VacApp\obj\Debug\net8.0\VacApp.genruntimeconfig.cache
+C:\Users\musta\source\repos\VacApp\VacApp\obj\Debug\net8.0\ref\VacApp.dll
